@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/bookmarked_icon.png",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/src/main/res/mipmap-mdpi/bookmarked_icon.png"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/bookmarked_icon.png",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/src/main/res/mipmap-mdpi/bookmarked_icon.png"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/bookmarked_icon.png",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/src/main/res/mipmap-mdpi/bookmarked_icon.png"
+    }
+]

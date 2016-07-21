@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/src/main/res/drawable-v21/ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_sync_black_24dp.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/src/main/res/drawable-v21/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/src/main/res/drawable-v21/ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_notifications_black_24dp.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/src/main/res/drawable-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_notifications_black_24dp.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/src/main/res/drawable-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_sync_black_24dp.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/src/main/res/drawable-v21/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_sync_black_24dp.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/src/main/res/drawable-v21/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_notifications_black_24dp.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/src/main/res/drawable-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/src/main/res/drawable-v21/ic_info_black_24dp.xml"
+    }
+]

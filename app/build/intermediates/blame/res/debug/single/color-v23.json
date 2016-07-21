@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

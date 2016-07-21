@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/current/BOOKMARKed/app/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/Users/seanchung/bit196/current/BOOKMARKed/app/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit196/BOOKMARKed/app/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/Users/seanchung/bit196/BOOKMARKed/app/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/Users/seanchung/bit272/Projects/BOOKMARKed/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    }
+]
